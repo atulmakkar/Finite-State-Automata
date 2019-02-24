@@ -93,6 +93,9 @@ Current state = S2, Input = 0, result state = S1
 To run the program `fsm.py`:
 
 `$ chmod +x fsm.py`
-`$ ./fsm.py`
 
 This will execute the file.
+
+`$ ./fsm.py`
+
+
