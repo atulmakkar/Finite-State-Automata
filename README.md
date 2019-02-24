@@ -94,8 +94,6 @@ To run the program `fsm.py`:
 
 `$ chmod +x fsm.py`
 
-TTo execute the file.
+To execute the file.
 
 `$ ./fsm.py`
-
-
